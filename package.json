@@ -1,0 +1,22 @@
+{
+  "name": "serverless-app-sufiyan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sufiyansenin/serverless-app-sufiyan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sufiyansenin/serverless-app-sufiyan/issues"
+  },
+  "homepage": "https://github.com/sufiyansenin/serverless-app-sufiyan#readme",
+  "devDependencies": {
+    "serverless-offline": "^13.3.4"
+  }
+}
